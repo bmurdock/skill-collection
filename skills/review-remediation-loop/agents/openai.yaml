@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Remediation Loop"
+  short_description: "Close review findings with verified narrow fixes"
+  default_prompt: "Use $review-remediation-loop to validate and close concrete review findings with narrow fixes, focused regressions, verification, and a final re-review."
